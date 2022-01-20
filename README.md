@@ -28,6 +28,10 @@ Here are some ideas to get you started:
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjyk2367)](https://hits.seeyoufarm.com) 
 	
   </div> -->
+
+## 🌱 My Used Language
+![jyk2367's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=jyk2367&theme=dark)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyk2367)](https://solved.ac/jyk2367)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jyk2367&theme=warm)
   
-  ## 🌱 My Used Language
-  ![jyk2367's most lang](https://github-readme-stats.vercel.app/api/top-langs/?username=jyk2367&theme=dark)
