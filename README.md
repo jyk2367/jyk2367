@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 ## 🌱 Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyk2367)](https://solved.ac/jyk2367)
-\\<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=jyk2367&theme=warm)-->
+<!--![mazandi profile](http://mazandi.herokuapp.com/api?handle=jyk2367&theme=warm)-->
   
