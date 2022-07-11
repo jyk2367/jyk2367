@@ -1,5 +1,5 @@
 ### Kang's Git 👋
-<a href="https://blog.naver.com/jyk2367" target="_blank"><img src="https://img.shields.io/badge/Blog-0984e3?style=flat-square&logo=Github&logoColor=white"/></a> <a href="mailto:kdj6551@naver.com"><img src="https://img.shields.io/badge/jyk2367@naver.com-81ecec?style=flat-square&logo=Gmail&logoColor=black"/></a>
+<a href="https://blog.naver.com/jyk2367" target="_blank"><img src="https://img.shields.io/badge/Blog-0984e3?style=flat-square&logo=Github&logoColor=white"/></a> <a href="mailto:jyk2367@naver.com"><img src="https://img.shields.io/badge/jyk2367@naver.com-81ecec?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
 <!--
 **jyk2367/jyk2367** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
